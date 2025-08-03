@@ -6,4 +6,4 @@
 - 📫 How to reach me **samararatney@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
