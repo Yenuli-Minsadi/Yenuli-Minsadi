@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yenuli Minsadi.</h1>
 <h3 align="center">Tech enthusiast from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**, **Javascript**, **MERN stack**
 
 - 📫 How to reach me **samararatney@gmail.com**
 
