@@ -12,7 +12,7 @@ I’m currently learning Java, Javascript.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,jquery,maven,mysql,postman,cs,css,html,git,docker,idea,boostrap,hibernate,github,figma,ai,ae,ps" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,jquery,maven,mysql,postman,cs,css,html,git,docker,bootstrap,hibernate,github,figma,ai,ae,ps" />
   </a>
 </p>
 
